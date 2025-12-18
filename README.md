@@ -14,3 +14,4 @@ POWER QUERY - Data transformation & cleaning layer for reshaping and preparing t
 
 4. SCREENSHOT/DEMO
 shows how the Dashboard looks like
+Example- https://github.com/bp24847-beep/TATA-top-car-sales-Dashboard/blob/main/Screenshot%202025-12-18%20104230.png
